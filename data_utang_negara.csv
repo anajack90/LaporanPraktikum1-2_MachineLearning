@@ -1,0 +1,210 @@
+Country,External_Debt,Per_Capita,GDP_Percentage
+United States,"40,598.133",93.25,21.59
+United Kingdom,"11,355",278.18,5.91
+France,"9,249.4815",257.21,57.85
+Germany,"8,139.6669",149.27,46.71
+Netherlands,"4,877.3109",336.43,100.17
+Japan,"4,786.71",109.30,21.2
+Luxembourg,"4,055.4745","3,673",1356.35
+Ireland,"3,899.2285",500.30,427.08
+Canada,"3,468.2119",138.32,30.79
+Spain,"3,290.5521",157.35,38.77
+Italy,"3,268.9915",119.39,29.66
+Singapore,"2,584.7364",391.88,135.61
+Switzerland,"2,519.5166",219.68,52.17
+China,"2,412.0799",11.57,2.86
+Hong Kong,"2,121.2209",471.24,60.73
+Australia,"2,050",96.51,21.09
+Belgium,"1,841.2479",237.05,57.63
+Sweden,"1,154.6942",151.84,49.45
+Austria,937.3072,150.28,52.25
+Mexico,880,43.64,18.10
+Norway,875.5962,146.08,53.26
+South Korea,774.3902,40.10,7.83
+India,762.7656,18.37,4.96
+Greece,693,225.28,77.85
+Brazil,692.6895,26.28,14.97
+Denmark,688,136.49,36.79
+Finland,683.1452,202.31,86.26
+Poland,552.542,48.71,34.71
+Turkey,538.956,31.80,26.65
+Portugal,523,137.46,39.52
+Indonesia,444.4005,28.86,13.65
+Malaysia,355.7179,68.88,52.47
+Argentina,321.7828,46.75,76.61
+Hungary,313.632,115.68,68.48
+Russia,299.0637,11.26,6.82
+Chile,288.8523,70.82,37.08
+Czechia,275,63.67,35.77
+Saudi Arabia,264,23.87,11.64
+Cyprus,261.0716,577.96,239.52
+Romania,260,54.01,38.93
+New Zealand,257.6775,92.48,18.07
+Taiwan,237,24.21,4.36
+Ukraine,236.72,105.05,34.86
+Malta,227.8944,742.04,392.92
+United Arab Emirates,220,38.76,17.75
+Colombia,212,39.22,37.51
+Thailand,209.7429,36.16,14.76
+Mauritius,204.7499,"1,196",3412.5
+South Africa,195.932,40.82,21.16
+Qatar,195,80.97,47.79
+Kazakhstan,182.7782,50.71,25.39
+Israel,175.1923,24.34,12.81
+Puerto Rico,167,142.15,
+Egypt,164.776,38.35,13.19
+Slovakia,162,95.81,59.94
+Philippines,148,28.83,14.60
+Pakistan,137.5578,30.42,20.29
+Vietnam,130.8716,24.82,12.87
+Bangladesh,114,22.23,10.52
+Peru,112.4321,29.52,21.66
+Venezuela,110,100.18,
+Kuwait,94.8379,54.84,16.82
+Lithuania,92.0,86.89,62.60
+Uzbekistan,89.8928,49.53,
+Bulgaria,78.2539,52.83,30.33
+Slovenia,74.4,85.74,39.55
+Ecuador,66.4657,48.10,26.06
+Morocco,64.8,38.42,18.67
+Sudan,62.4,202.12,283.64
+Serbia,59.933,53.50,32.22
+Sri Lanka,54.5248,50.10,15.19
+Oman,54.0,48.54,28.59
+Croatia,52.9,55.04,22.98
+Latvia,52.2698,97.36,37.07
+Nigeria,51.9,15.37,7.42
+Uruguay,48.8,50.82,22.51
+Panama,48.7,51.23,32.45
+Estonia,48.3787,93.70,59
+Jordan,46.0207,70.90,19.58
+Tunisia,42.9465,70.70,24.26
+Kenya,42.3375,28.75,9.73
+Ivory Coast,40.561,36.18,
+Mongolia,40.2175,141.36,268.12
+Bahrain,39.4,82.45,33.98
+Belarus,38.2956,37.53,15.02
+Angola,37.7,31.84,68.55
+Lebanon,34.6,158.82,10.03
+Iceland,29.8225,68.09,23.12
+Paraguay,29.7333,49.11,43.73
+Ghana,29.1198,24.62,26
+Georgia,27.1128,63.47,58.94
+Cuba,26.3,17.88,
+Dominican Republic,26.1,19.22,
+Ethiopia,25.4,10.66,8.48
+Costa Rica,24.9,24.74,11.81
+Zambia,23.3726,56.67,86.57
+Iraq,22.6,8.34,
+Papua New Guinea,22.0,69.49,51.26
+Trinidad and Tobago,21.5,75.91,42.22
+Cambodia,19.3689,36.98,30.26
+Guatemala,19.1,15.78,
+Bahamas,17.6,122.03,109.75
+Jamaica,16.8,83.39,37.24
+Monaco,16.5,187.84,
+Bolivia,16.0163,19.84,15.25
+El Salvador,14.9,41.56,
+Tanzania,15.9,19.90,10.96
+North Macedonia,14.8639,68.80,
+Kyrgyzstan,12.5266,53.07,50.11
+Moldova,12.0882,55.22,18.6
+Albania,11.9144,35.74,15.47
+Myanmar,11.1748,13.33,3.95
+Nicaragua,11.1,58.95,16.09
+Laos,10.9613,57.82,31.32
+Zimbabwe,10.9,30.35,15.35
+Nepal,10.5,24.09,11.69
+Mozambique,9.7212,41.77,60.76
+Montenegro,8.7413,85.47,24.28
+Honduras,8.040,21.89,
+Cameroon,7.380,13.81,16.03
+Yemen,7.192,42.45,
+Armenia,6.629,20.80,14.1
+Tajikistan,6.5919,32.28,26.37
+Namibia,6.520,51.04,21.02
+Uganda,6.240,11.23,12.74
+Senegal,6.190,18.36,15.09
+Syria,5.920,31.83,32.88
+Kosovo,5.6177,39.98,
+Bosnia and Herzegovina,5.5727,15.16,6.41
+Democratic Republic of the Congo,5.330,7.35,7.51
+Somalia,5.300,41.39,
+Gabon,5.160,24.55,22.43
+North Korea,5.000,32.95,
+Iran,4.8616,1.62,0.16
+Republic of the Congo,4.820,31.08,80.28
+Azerbaijan,4.8135,6.14,3.07
+Algeria,4.760,1.79,1.04
+Barbados,4.490,65.42,28.06
+Madagascar,4.010,24.34,13.36
+Mali,3.630,16.74,16.48
+Mauritania,3.590,33.73,59.75
+Libya,3.530,7.88,8.02
+Burkina Faso,3.090,14.12,19.32
+Malawi,2.813,17.09,8.73
+Niger,2.730,14.50,20.99
+Seychelles,2.550,115.84,63.80
+Rwanda,2.440,17.82,8.72
+Bermuda(UK),2.440,31.11,
+Benin,2.340,10.95,15.60
+Bhutan,2.260,72.70,
+Haiti,2.020,8.41,40.44
+South Sudan,1.920,29.44,
+Chad,1.880,10.03,18.75
+Cape Verde,1.660,61.07,
+Sierra Leone,1.560,34.25,39.02
+Palestine,1.535,8.25,0.27
+Botswana,1.4988,6.83,5.55
+Equatorial Guinea,1.360,12.74,6.82
+Djibouti,1.340,30.68,66.95
+Guinea,1.330,5.23,7.40
+Belize,1.330,40.26,44.23
+Afghanistan,1.280,8.85,3.12
+Suriname,1.240,28.48,61.75
+Togo,1.170,11.93,19.55
+Guyana,1.140,5.40,19.05
+Andorra,1.110,28.53,
+Liberia,1.110,23.37,7.94
+Guinea-Bissau,1.100,50.91,54.75
+Lesotho,0.949,39.62,47.44
+Faroe Islands(Denmark),0.889,38.00,
+Fiji,0.833,14.37,6.94
+Eritrea,0.820,34.42,16.40
+Maldives,0.742,10.30,7.42
+Burundi,0.705,23.07,17.63
+Aruba,0.693,17.04,
+Central African Republic,0.687,24.44,34.34
+Grenada,0.679,48.29,
+Gambia,0.542,20.11,18.06
+Saint Lucia,0.513,19.88,
+Cayman Islands(UK),0.503,1.20,
+Turkmenistan,0.503,0.60,0.64
+Solomon Islands,0.492,28.79,
+Eswatini,0.471,9.25,
+Samoa,0.447,43.67,
+Antigua and Barbuda,0.441,20.74,
+San Marino,0.352,17.31,
+Brunei,0.340,2.12,2.83
+Saint Vincent and the Grenadines,0.321,28.47,
+Timor-Leste,0.312,15.64,7.79
+Dominica,0.289,40.76,
+Cook Islands,0.281,23.00,
+Sao Tome and Principe,0.237,31.49,
+Tonga,0.233,40.12,
+Palau,0.224,95.00,
+Vanuatu,0.208,16.14,
+Saint Kitts and Nevis,0.188,16.53,
+Comoros,0.133,9.37,6.66
+New Caledonia(France),0.112,1.16,
+Marshall Islands,0.098,32.12,
+Micronesia,0.094,19.34,
+Anguilla(UK),0.048,15.83,
+Greenland(Denmark),0.036,,
+Nauru,0.033,20.68,
+British Virgin Islands(UK),0.018,2.00,
+Tuvalu,0.015,22.42,
+Kiribati,0.014,4.11,
+Wallis and Futuna(France),0.004,6.00,
+Montserrat(UK),0.001,2.00,
+Niue(New Zealand),0.000,0.00,

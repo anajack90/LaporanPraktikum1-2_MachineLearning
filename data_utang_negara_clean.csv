@@ -1,0 +1,159 @@
+Country,External_Debt,Per_Capita,GDP_Percentage,Risk_Category
+United States,40598.133,93.25,21.59,Risiko Rendah
+United Kingdom,11355.0,278.18,5.91,Risiko Rendah
+France,9249.4815,257.21,57.85,Risiko Rendah
+Germany,8139.6669,149.27,46.71,Risiko Rendah
+Netherlands,4877.3109,336.43,100.17,Risiko Tinggi
+Japan,4786.71,109.3,21.2,Risiko Rendah
+Luxembourg,4055.4745,3673.0,1356.35,Risiko Tinggi
+Ireland,3899.2285,500.3,427.08,Risiko Tinggi
+Canada,3468.2119,138.32,30.79,Risiko Rendah
+Spain,3290.5521,157.35,38.77,Risiko Rendah
+Italy,3268.9915,119.39,29.66,Risiko Rendah
+Singapore,2584.7364,391.88,135.61,Risiko Tinggi
+Switzerland,2519.5166,219.68,52.17,Risiko Rendah
+China,2412.0799,11.57,2.86,Risiko Rendah
+Hong Kong,2121.2209,471.24,60.73,Risiko Tinggi
+Australia,2050.0,96.51,21.09,Risiko Rendah
+Belgium,1841.2479,237.05,57.63,Risiko Rendah
+Sweden,1154.6942,151.84,49.45,Risiko Rendah
+Austria,937.3072,150.28,52.25,Risiko Rendah
+Mexico,880.0,43.64,18.1,Risiko Rendah
+Norway,875.5962,146.08,53.26,Risiko Rendah
+South Korea,774.3902,40.1,7.83,Risiko Rendah
+India,762.7656,18.37,4.96,Risiko Rendah
+Greece,693.0,225.28,77.85,Risiko Tinggi
+Brazil,692.6895,26.28,14.97,Risiko Rendah
+Denmark,688.0,136.49,36.79,Risiko Rendah
+Finland,683.1452,202.31,86.26,Risiko Tinggi
+Poland,552.542,48.71,34.71,Risiko Rendah
+Turkey,538.956,31.8,26.65,Risiko Rendah
+Portugal,523.0,137.46,39.52,Risiko Rendah
+Indonesia,444.4005,28.86,13.65,Risiko Rendah
+Malaysia,355.7179,68.88,52.47,Risiko Rendah
+Argentina,321.7828,46.75,76.61,Risiko Tinggi
+Hungary,313.632,115.68,68.48,Risiko Tinggi
+Russia,299.0637,11.26,6.82,Risiko Rendah
+Chile,288.8523,70.82,37.08,Risiko Rendah
+Czechia,275.0,63.67,35.77,Risiko Rendah
+Saudi Arabia,264.0,23.87,11.64,Risiko Rendah
+Cyprus,261.0716,577.96,239.52,Risiko Tinggi
+Romania,260.0,54.01,38.93,Risiko Rendah
+New Zealand,257.6775,92.48,18.07,Risiko Rendah
+Taiwan,237.0,24.21,4.36,Risiko Rendah
+Ukraine,236.72,105.05,34.86,Risiko Rendah
+Malta,227.8944,742.04,392.92,Risiko Tinggi
+United Arab Emirates,220.0,38.76,17.75,Risiko Rendah
+Colombia,212.0,39.22,37.51,Risiko Rendah
+Thailand,209.7429,36.16,14.76,Risiko Rendah
+Mauritius,204.7499,1196.0,3412.5,Risiko Tinggi
+South Africa,195.932,40.82,21.16,Risiko Rendah
+Qatar,195.0,80.97,47.79,Risiko Rendah
+Kazakhstan,182.7782,50.71,25.39,Risiko Rendah
+Israel,175.1923,24.34,12.81,Risiko Rendah
+Egypt,164.776,38.35,13.19,Risiko Rendah
+Slovakia,162.0,95.81,59.94,Risiko Rendah
+Philippines,148.0,28.83,14.6,Risiko Rendah
+Pakistan,137.5578,30.42,20.29,Risiko Rendah
+Vietnam,130.8716,24.82,12.87,Risiko Rendah
+Bangladesh,114.0,22.23,10.52,Risiko Rendah
+Peru,112.4321,29.52,21.66,Risiko Rendah
+Kuwait,94.8379,54.84,16.82,Risiko Rendah
+Lithuania,92.0,86.89,62.6,Risiko Tinggi
+Bulgaria,78.2539,52.83,30.33,Risiko Rendah
+Slovenia,74.4,85.74,39.55,Risiko Rendah
+Ecuador,66.4657,48.1,26.06,Risiko Rendah
+Morocco,64.8,38.42,18.67,Risiko Rendah
+Sudan,62.4,202.12,283.64,Risiko Tinggi
+Serbia,59.933,53.5,32.22,Risiko Rendah
+Sri Lanka,54.5248,50.1,15.19,Risiko Rendah
+Oman,54.0,48.54,28.59,Risiko Rendah
+Croatia,52.9,55.04,22.98,Risiko Rendah
+Latvia,52.2698,97.36,37.07,Risiko Rendah
+Nigeria,51.9,15.37,7.42,Risiko Rendah
+Uruguay,48.8,50.82,22.51,Risiko Rendah
+Panama,48.7,51.23,32.45,Risiko Rendah
+Estonia,48.3787,93.7,59.0,Risiko Rendah
+Jordan,46.0207,70.9,19.58,Risiko Rendah
+Tunisia,42.9465,70.7,24.26,Risiko Rendah
+Kenya,42.3375,28.75,9.73,Risiko Rendah
+Mongolia,40.2175,141.36,268.12,Risiko Tinggi
+Bahrain,39.4,82.45,33.98,Risiko Rendah
+Belarus,38.2956,37.53,15.02,Risiko Rendah
+Angola,37.7,31.84,68.55,Risiko Tinggi
+Lebanon,34.6,158.82,10.03,Risiko Rendah
+Iceland,29.8225,68.09,23.12,Risiko Rendah
+Paraguay,29.7333,49.11,43.73,Risiko Rendah
+Ghana,29.1198,24.62,26.0,Risiko Rendah
+Georgia,27.1128,63.47,58.94,Risiko Rendah
+Ethiopia,25.4,10.66,8.48,Risiko Rendah
+Costa Rica,24.9,24.74,11.81,Risiko Rendah
+Zambia,23.3726,56.67,86.57,Risiko Tinggi
+Papua New Guinea,22.0,69.49,51.26,Risiko Rendah
+Trinidad and Tobago,21.5,75.91,42.22,Risiko Rendah
+Cambodia,19.3689,36.98,30.26,Risiko Rendah
+Bahamas,17.6,122.03,109.75,Risiko Tinggi
+Jamaica,16.8,83.39,37.24,Risiko Rendah
+Bolivia,16.0163,19.84,15.25,Risiko Rendah
+Tanzania,15.9,19.9,10.96,Risiko Rendah
+Kyrgyzstan,12.5266,53.07,50.11,Risiko Rendah
+Moldova,12.0882,55.22,18.6,Risiko Rendah
+Albania,11.9144,35.74,15.47,Risiko Rendah
+Myanmar,11.1748,13.33,3.95,Risiko Rendah
+Nicaragua,11.1,58.95,16.09,Risiko Rendah
+Laos,10.9613,57.82,31.32,Risiko Rendah
+Zimbabwe,10.9,30.35,15.35,Risiko Rendah
+Nepal,10.5,24.09,11.69,Risiko Rendah
+Mozambique,9.7212,41.77,60.76,Risiko Tinggi
+Montenegro,8.7413,85.47,24.28,Risiko Rendah
+Cameroon,7.38,13.81,16.03,Risiko Rendah
+Armenia,6.629,20.8,14.1,Risiko Rendah
+Tajikistan,6.5919,32.28,26.37,Risiko Rendah
+Namibia,6.52,51.04,21.02,Risiko Rendah
+Uganda,6.24,11.23,12.74,Risiko Rendah
+Senegal,6.19,18.36,15.09,Risiko Rendah
+Syria,5.92,31.83,32.88,Risiko Rendah
+Bosnia and Herzegovina,5.5727,15.16,6.41,Risiko Rendah
+Democratic Republic of the Congo,5.33,7.35,7.51,Risiko Rendah
+Gabon,5.16,24.55,22.43,Risiko Rendah
+Iran,4.8616,1.62,0.16,Risiko Rendah
+Republic of the Congo,4.82,31.08,80.28,Risiko Tinggi
+Azerbaijan,4.8135,6.14,3.07,Risiko Rendah
+Algeria,4.76,1.79,1.04,Risiko Rendah
+Barbados,4.49,65.42,28.06,Risiko Rendah
+Madagascar,4.01,24.34,13.36,Risiko Rendah
+Mali,3.63,16.74,16.48,Risiko Rendah
+Mauritania,3.59,33.73,59.75,Risiko Rendah
+Libya,3.53,7.88,8.02,Risiko Rendah
+Burkina Faso,3.09,14.12,19.32,Risiko Rendah
+Malawi,2.813,17.09,8.73,Risiko Rendah
+Niger,2.73,14.5,20.99,Risiko Rendah
+Seychelles,2.55,115.84,63.8,Risiko Tinggi
+Rwanda,2.44,17.82,8.72,Risiko Rendah
+Benin,2.34,10.95,15.6,Risiko Rendah
+Haiti,2.02,8.41,40.44,Risiko Rendah
+Chad,1.88,10.03,18.75,Risiko Rendah
+Sierra Leone,1.56,34.25,39.02,Risiko Rendah
+Palestine,1.535,8.25,0.27,Risiko Rendah
+Botswana,1.4988,6.83,5.55,Risiko Rendah
+Equatorial Guinea,1.36,12.74,6.82,Risiko Rendah
+Djibouti,1.34,30.68,66.95,Risiko Tinggi
+Guinea,1.33,5.23,7.4,Risiko Rendah
+Belize,1.33,40.26,44.23,Risiko Rendah
+Afghanistan,1.28,8.85,3.12,Risiko Rendah
+Suriname,1.24,28.48,61.75,Risiko Tinggi
+Togo,1.17,11.93,19.55,Risiko Rendah
+Guyana,1.14,5.4,19.05,Risiko Rendah
+Liberia,1.11,23.37,7.94,Risiko Rendah
+Guinea-Bissau,1.1,50.91,54.75,Risiko Rendah
+Lesotho,0.949,39.62,47.44,Risiko Rendah
+Fiji,0.833,14.37,6.94,Risiko Rendah
+Eritrea,0.82,34.42,16.4,Risiko Rendah
+Maldives,0.742,10.3,7.42,Risiko Rendah
+Burundi,0.705,23.07,17.63,Risiko Rendah
+Central African Republic,0.687,24.44,34.34,Risiko Rendah
+Gambia,0.542,20.11,18.06,Risiko Rendah
+Turkmenistan,0.503,0.6,0.64,Risiko Rendah
+Brunei,0.34,2.12,2.83,Risiko Rendah
+Timor-Leste,0.312,15.64,7.79,Risiko Rendah
+Comoros,0.133,9.37,6.66,Risiko Rendah
